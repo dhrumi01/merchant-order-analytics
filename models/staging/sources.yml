@@ -1,0 +1,37 @@
+version: 2
+
+sources:
+  - name: raw
+    database: MERCHANT_DB
+    schema: RAW
+    tables:
+      - name: ORDERS_RAW
+      - name: MERCHANT_MASTER
+
+models:
+  - name: stg_orders
+    description: "Cleaned and typed orders from raw Snowflake table"
+    columns:
+      - name: order_id
+        description: "Unique order identifier"
+        data_tests:
+          - unique
+          - not_null
+
+  - name: stg_merchants
+    description: "Cleaned merchant master data"
+    columns:
+      - name: merchant_id
+        description: "Unique merchant identifier"
+        data_tests:
+          - unique
+          - not_null
+
+  - name: fct_orders
+    description: "Final delivered orders fact table with KPI flags"
+    columns:
+      - name: order_id
+        description: "Unique order identifier"
+        data_tests:
+          - unique
+          - not_null
