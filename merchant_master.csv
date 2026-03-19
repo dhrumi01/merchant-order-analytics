@@ -1,0 +1,51 @@
+merchant_id,merchant_name,category,city,sla_target_minutes
+M001,"Rodriguez, Figueroa and Sanchez",Pizza,New York,45
+M002,Doyle Ltd,Mexican,Houston,60
+M003,"Mcclain, Miller and Henderson",Indian,Chicago,40
+M004,Davis and Sons,Pizza,Dallas,60
+M005,"Guzman, Hoffman and Baldwin",Pizza,Austin,60
+M006,"Gardner, Robinson and Lawrence",Burgers,New York,35
+M007,Blake and Sons,Fast Food,Los Angeles,40
+M008,"Henderson, Ramirez and Lewis",Indian,Houston,40
+M009,Garcia-James,Pharmacy,Austin,40
+M010,Abbott-Munoz,Fast Food,Dallas,60
+M011,Blair PLC,Indian,Dallas,45
+M012,Dudley Group,Burgers,Houston,40
+M013,Arnold Ltd,Grocery,Austin,60
+M014,"Mcclure, Ward and Lee",Mexican,New York,35
+M015,Williams and Sons,Sushi,San Antonio,45
+M016,Galloway-Wyatt,Chinese,Phoenix,35
+M017,James Group,Sushi,Houston,45
+M018,"Flowers, Martin and Kelly",Chinese,Los Angeles,60
+M019,"Adams, Zuniga and Wong",Pizza,San Antonio,30
+M020,"Reid, Ferguson and Sanchez",Pizza,Philadelphia,45
+M021,Gray-Mayo,Chinese,Austin,35
+M022,"Watts, Robinson and Nguyen",Mexican,New York,60
+M023,Perez Inc,Grocery,Dallas,45
+M024,Morales-Jones,Pizza,San Antonio,30
+M025,"Walter, Edwards and Rios",Pizza,Dallas,30
+M026,Wilkerson-Day,Mexican,Austin,40
+M027,Baker and Sons,Chinese,Austin,40
+M028,"Hoffman, Baker and Richards",Indian,Los Angeles,35
+M029,"Ross, Robinson and Bright",Fast Food,Houston,45
+M030,"Snyder, Campos and Callahan",Mexican,Los Angeles,45
+M031,Burton Ltd,Indian,Los Angeles,40
+M032,Carlson-Cruz,Burgers,Phoenix,45
+M033,"Ferrell, Rice and Maddox",Grocery,Philadelphia,45
+M034,Frazier Inc,Sushi,Philadelphia,30
+M035,"Dyer, Potter and Mack",Chinese,Houston,40
+M036,Rodriguez-Graham,Mexican,Los Angeles,60
+M037,Smith-Bowen,Bakery,Chicago,40
+M038,"Baker, Mason and White",Pharmacy,Houston,60
+M039,Harrell LLC,Sushi,San Diego,30
+M040,"Romero, Gonzalez and Brooks",Burgers,Phoenix,35
+M041,Ryan PLC,Pharmacy,Houston,45
+M042,George Group,Chinese,New York,30
+M043,Rodriguez LLC,Indian,New York,45
+M044,Allen-Allen,Chinese,San Antonio,35
+M045,"Arroyo, Miller and Tucker",Mexican,Los Angeles,35
+M046,Spence PLC,Indian,Austin,30
+M047,Anderson Group,Chinese,Houston,35
+M048,"Martin, Rose and Obrien",Grocery,San Antonio,60
+M049,Hickman Ltd,Grocery,Chicago,35
+M050,"Harris, Collins and Carney",Mexican,Chicago,45
