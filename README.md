@@ -15,7 +15,7 @@ I simulated a food delivery platform with 50 merchants across 10 US cities, gene
 ## 📊 Dashboard Screenshots
 
 ### KPI Overview
-![KPI Overview](KPI Overview.png)
+![KPI Overview](KPI_Overview.png)
 > 42.48K total orders · $1.22M revenue · 43.47% SLA breach rate · orders broken down by merchant category
 
 ### SLA Anomaly Detection
