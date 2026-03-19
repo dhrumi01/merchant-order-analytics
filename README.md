@@ -172,5 +172,3 @@ dbt test
 
 **Dhrumi** · [github.com/dhrumi01](https://github.com/dhrumi01)
 
----
-> Built entirely from scratch. Every tool, every error, every fix — done hands-on.
