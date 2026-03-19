@@ -6,9 +6,9 @@ Python → Snowflake → dbt → SQL → Power BI
 
 ## 🚀 What I Built & Why
 
-I wanted to build a project that mirrors what actually happens inside food delivery and retail companies — ingest order data, clean it, find operational problems, and surface insights through dashboards that anyone can use.
+I wanted to build a project that mirrors what actually happens inside food delivery and retail companies ingest order data, clean it, find operational problems, and surface insights through dashboards that anyone can use.
 
-I simulated a food delivery platform with 50 merchants across 10 US cities, generated a full year of realistic order data, and built every layer of the pipeline from scratch — no shortcuts, no pre-built datasets.
+I simulated a food delivery platform with 50 merchants across 10 US cities, generated a full year of realistic order data, and built every layer of the pipeline from scratch no shortcuts, no pre-built datasets.
 
 ---
 
